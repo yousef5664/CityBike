@@ -18,10 +18,10 @@ The time is import to predict the number of trips will be made. There is a peak 
 ### Does the trip duration has any correlation with other variables ?
 Yes, Time is really import to predict the the durtion of trips. We saw that from April to August have longer trips. Trips taken on weekends are longer than business days.
 
-## this project is part of Data Analyst Nanodegree from Udacity.com
-
 ## Packages used in the project
 * Pandas
 * Numpy
 * Matplotlib
 * Seaborn
+
+## this project is part of Data Analyst Nanodegree from Udacity.com
