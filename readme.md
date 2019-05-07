@@ -24,4 +24,4 @@ Yes, Time is really import to predict the the durtion of trips. We saw that from
 * Matplotlib
 * Seaborn
 
-## this project is part of Data Analyst Nanodegree from Udacity.com
+**this project is part of Data Analyst Nanodegree from Udacity.com**
