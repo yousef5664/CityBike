@@ -1,4 +1,4 @@
-# NYC CityBike investigaion
+# NYC CitiBike investigaion
 
 ## Dateset
 The Dataset contains over 17 million trips for year 2018. It has 
