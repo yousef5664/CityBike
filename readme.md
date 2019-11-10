@@ -7,7 +7,7 @@ The dataset can be [here](https://www.citibikenyc.com/system-data)
 
 ## Summary of Findings 
 
-In the exploration, I found that summer months have more trips and long trip durations than winter months. Trips shows that some people rely on bike trips to go and raturn back from their work,  However these trips tend to be less duration than weekends. This means people could rely on bike to go to work if their work is close enough.
+In the exploration, I found that summer months have more trips and long trip durations than winter months. Bussiness days trips have longer duration than weekends.
 
 ## Key Insights 
 There are over 17 million trips made in 2018. Most of the trips taken by male with 68% and trips taken by Female are 23% The other 8% is known gender. Subscribers taken 89% of trips and Customers taken 11%. Before I started the exploration, I asked two qutions And I found their answers.
